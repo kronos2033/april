@@ -1,0 +1,111 @@
+[
+  {
+    "id": 9,
+    "category": "sneakers",
+    "img": "/img/product-sneakers9.png",
+    "price": 50.99,
+    "title": "Sneakers 9",
+    "isSale": false
+  },
+  {
+    "id": 10,
+    "category": "sneakers",
+    "img": "/img/product-sneakers10.png",
+    "price": 250.99,
+    "title": "Sneakers 10",
+    "isSale": false
+  },
+  {
+    "id": 11,
+    "category": "sneakers",
+    "img": "/img/product-sneakers11.png",
+    "price": 52.99,
+    "title": "Sneakers 11",
+    "isSale": true,
+    "salePercent": 15
+  },
+  {
+    "id": 12,
+    "category": "sneakers",
+    "img": "/img/product-sneakers12.png",
+    "price": 52.99,
+    "title": "Sneakers 12",
+    "isSale": true,
+    "salePercent": 25
+  },
+  {
+    "id": 13,
+    "category": "sneakers",
+    "img": "/img/product-sneakers13.png",
+    "price": 52.99,
+    "title": "Sneakers 13",
+    "isSale": false
+  },
+  {
+    "id": 1,
+    "category": "clothes",
+    "img": "/img/product-clothes1.png",
+    "price": 50.99,
+    "title": "clothes 1",
+    "isSale": false
+  },
+  {
+    "id": 2,
+    "category": "clothes",
+    "img": "/img/product-clothes2.png",
+    "price": 50.99,
+    "title": "clothes 2",
+    "isSale": false
+  },
+  {
+    "id": 3,
+    "category": "clothes",
+    "img": "/img/product-clothes3.png",
+    "price": 99.99,
+    "title": "clothes 3",
+    "isSale": true,
+    "salePercent": 20
+  },
+  {
+    "id": 4,
+    "category": "clothes",
+    "img": "/img/product-clothes4.png",
+    "price": 50.99,
+    "title": "clothes 4",
+    "isSale": true,
+    "salePercent": 10
+  },
+  {
+    "id": 5,
+    "category": "clothes",
+    "img": "/img/product-clothes1.png",
+    "price": 12.99,
+    "title": "clothes 5",
+    "isSale": false
+  },
+  {
+    "id": 6,
+    "category": "clothes",
+    "img": "/img/product-clothes2.png",
+    "price": 150.99,
+    "title": "clothes 6",
+    "isSale": true,
+    "salePercent": 50
+  },
+  {
+    "id": 7,
+    "category": "clothes",
+    "img": "/img/product-clothes3.png",
+    "price": 50.99,
+    "title": "clothes 7",
+    "isSale": false
+  },
+  {
+    "id": 8,
+    "category": "clothes",
+    "img": "/img/product-clothes4.png",
+    "price": 50.99,
+    "title": "clothes 8",
+    "isSale": false
+  }
+]
